@@ -1,5 +1,8 @@
 # ObservaAI
 
+<img width="1536" height="1024" alt="redmeobser" src="https://github.com/user-attachments/assets/a2f1aca2-3e7f-450d-b5ac-e993892b9de1" />
+
+
 AI-powered security, observability, incident response, and code review platform.
 
 ObservaAI helps developers, SREs, DevOps engineers, and security teams analyze source code, application logs, production incidents, and system failures using AI.
